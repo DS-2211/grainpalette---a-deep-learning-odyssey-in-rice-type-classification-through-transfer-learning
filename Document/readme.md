@@ -34,9 +34,8 @@ A short walkthrough of the live application, backend code, and result visualizat
 ## 🔗 Related Links
 
 - [🔗 Dataset (Kaggle)](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
-)
+
 - [🔗 Source Code Repository](https://github.com/DS-2211/grainpalette---a-deep-learning-odyssey-in-rice-type-classification-through-transfer-learning)
-)
 
 ---
 

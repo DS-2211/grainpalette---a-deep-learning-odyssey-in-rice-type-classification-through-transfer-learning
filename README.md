@@ -18,16 +18,18 @@ This repo includes everything from model training and evaluation to an end-to-en
 
 ## 🗂 Repository Structure
 
-| Folder | Description |
-|--------|-------------|
-| [`Backend (Flask)/`](./Backend%20(Flask)) | Flask API to load model, handle uploads, and return predictions |
-| [`Frontend (templates)/`](./Frontend%20(templates)) | HTML-based UI for image upload and results display |
-| [`Model Training/`](./Model%20Training) | Jupyter Notebook + Python script for data processing, training, and evaluation |
-| [`Results/`](./Results) | Accuracy/loss plots, confusion matrix, UI screenshots |
-| [`Video Demo/`](./Video%20Demo) | Demo walkthrough video |
-| [`Training Dataset/`](./Training%20Dataset) | Link to dataset or sample structure (if large) |
-| [`Document/`](./Document) | Final project report and documentation |
-| [`README.md`](./README.md) | This file |
+
+| Folder Name               | Description                                                         |
+|---------------------------|---------------------------------------------------------------------|
+| Backend (Flask)           | Flask API to load the model, handle image uploads, and return predictions |
+| Frontend (templates)      | HTML-based UI for image upload and displaying classification results |
+| Model Training            | Jupyter notebooks and scripts for data processing, training, and evaluation |
+| Results                   | Accuracy/loss plots, confusion matrix, and UI screenshots           |
+| Video Demo                | Demo walkthrough video of the application                           |
+| Training Dataset          | Folder showcasing dataset structure or sample images                |
+| Document                  | Final project report and documentation                              |
+| README.md                 | This file                                                           |
+
 
 
 

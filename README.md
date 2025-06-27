@@ -20,13 +20,14 @@ This repo includes everything from model training and evaluation to an end-to-en
 
 | Folder | Description |
 |--------|-------------|
-| [`Backend (Flask)/`](./Backend%20(Flask)) | Flask API to load model, handle uploads, and return predictions |
-| [`Frontend (templates)/`](./Frontend%20(templates)) | HTML-based UI for image upload and results display |
-| [`Model Training/`](./Model%20Training) | Jupyter Notebook + Python script for data processing, training, and evaluation |
-| [`Results/`](./Results) | Accuracy/loss plots, confusion matrix, UI screenshots |
-| [`Video Demo/`](./Video%20Demo) | Demo walkthrough video |
-| [`Training Dataset/`](./Training%20Dataset) | Link to dataset or sample structure (if large) |
+| [`backend-flask/`](./backend-flask) | Flask API to load model, handle uploads, and return predictions |
+| [`frontend-templates/`](./frontend-templates) | HTML-based UI for image upload and results display |
+| [`model-training/`](./model-training) | Jupyter Notebook + Python script for data processing, training, and evaluation |
+| [`results/`](./results) | Accuracy/loss plots, confusion matrix, UI screenshots |
+| [`video-demo/`](./video-demo) | Demo walkthrough video |
+| [`training-dataset/`](./training-dataset) | Dataset or structure for rice image categories |
 | [`README.md`](./README.md) | This file |
+
 
 ---
 

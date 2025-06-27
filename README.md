@@ -20,12 +20,12 @@ This repo includes everything from model training and evaluation to an end-to-en
 
 | Folder | Description |
 |--------|-------------|
-| [`Backend (Flask)/`](./Backend%20(Flask)) | Flask API to load model, handle uploads, and return predictions |
-| [`Frontend (templates)/`](./Frontend%20(templates)) | HTML-based UI for image upload and results display |
-| [`Model Training/`](./Model%20Training) | Jupyter Notebook + Python script for data processing, training, and evaluation |
+| [`Backend (Flask)/`](./Backend (Flask)) | Flask API to load model, handle uploads, and return predictions |
+| [`Frontend (templates)/`](./Frontend (templates)) | HTML-based UI for image upload and results display |
+| [`Model Training/`](./Model_Training) | Jupyter Notebook + Python script for data processing, training, and evaluation |
 | [`Results/`](./Results) | Accuracy/loss plots, confusion matrix, UI screenshots |
-| [`Video Demo/`](./Video%20Demo) | Demo walkthrough video |
-| [`Training Dataset/`](./Training%20Dataset) | Link to dataset or sample structure (if large) |
+| [`Video Demo/`](./Video_Demo) | Demo walkthrough video |
+| [`Training Dataset/`](./Training_Dataset) | Link to dataset or sample structure (if large) |
 | [`README.md`](./README.md) | This file |
 
 ---

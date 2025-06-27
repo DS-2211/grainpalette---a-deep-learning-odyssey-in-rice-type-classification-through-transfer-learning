@@ -9,7 +9,6 @@ This folder contains visual results and interface snapshots from the **Rice Grai
 - `Confusion_Matrix.png` – Confusion matrix showing per-class performance.
 - `Sample Input.png` – Screenshot of input image selection for prediction.
 - `Sample Output.png` – Output result showing predicted class (`ipsala`) with 100% confidence.
-- `Screenshot 2025-06-28 at 12.48.55 AM.png` – UI snapshot of the classifier web app.
 
 ## 🎯 Purpose
 

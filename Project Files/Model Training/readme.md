@@ -17,7 +17,7 @@ This directory contains everything you need to **train** the GrainPalette rice-v
 ## 🗄️ Dataset
 
 - **Source:** [Veronica Morelli – Rice Grain Image Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
-)
+- 
 - **Structure expected:**
 - Rice_Image_Dataset/
 ├── Arborio/

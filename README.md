@@ -38,7 +38,7 @@ This repo includes everything from model training and evaluation to an end-to-en
 ## 🚀 Demo Video
 
 Watch the full walkthrough here:  
-🎥 **[Rice Grain Classifier – Demo]([https://youtu.be/your-demo-link](https://drive.google.com/file/d/1VML8l14Xu-J0RRLRPRxJ8EESaH7wMw9S/view?usp=sharing))**
+🎥 **[Rice Grain Classifier – Demo]((https://drive.google.com/file/d/1VML8l14Xu-J0RRLRPRxJ8EESaH7wMw9S/view?usp=sharing))**
 
 ---
 

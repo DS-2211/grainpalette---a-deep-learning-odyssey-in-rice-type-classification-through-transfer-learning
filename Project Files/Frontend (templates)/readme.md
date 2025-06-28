@@ -50,7 +50,7 @@ To use these templates:
 - Integrated templates with Flask route logic
 
 ### 🔹 Rachagarla Mahesh Adithya
-- Managed template routing using Flask and Jinja2  
+- Managed template routing using Flask
 - Structured and organized the templates for reusability  
 - Maintained visual consistency and layout logic
 

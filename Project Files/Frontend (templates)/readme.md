@@ -39,9 +39,20 @@ To use these templates:
 
 ## 👥 Authors
 
-- **Dwarakeshwar S.** – UI animation design, HTML structuring  
-- **Gaddam Vijay Kumar** – Style engineering, layout tuning  
-- **Rachagarla Mahesh Adithya** – Template-routing & visual consistency
+### 🔹 Dwarakeshwar S.
+- Contributed to HTML structure and semantic layout  
+- Designed the content flow and page hierarchy  
+- Focused on accessibility and animation-ready markup
+
+### 🔹 Gaddam Vijay Kumar
+- Designed the frontend layout using HTML & CSS  
+- Ensured responsive and consistent styling across views  
+- Integrated templates with Flask route logic
+
+### 🔹 Rachagarla Mahesh Adithya
+- Managed template routing using Flask and Jinja2  
+- Structured and organized the templates for reusability  
+- Maintained visual consistency and layout logic
 
 ---
 
